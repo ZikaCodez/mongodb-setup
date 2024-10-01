@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository has been archived as it's outdated
+
 ## How to setup MongoDB <img src="https://github.com/mongodb-js/leaf/blob/master/mongodb-leaf.svg" height="20" width="20">
 - Head to [MongoDB.com](https://cloud.mongodb.com/v2#/preferences/organizations)
 ### Start by creating an organization
